@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Generated model artifacts
+model.pkl
+vectorizer.pkl
+
+# IDE settings
+.vscode/
+
+# Optional local data (uncomment if you don't want to version dataset)
+# IMDB Dataset.csv

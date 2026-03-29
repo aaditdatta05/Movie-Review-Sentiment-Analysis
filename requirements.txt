@@ -3,3 +3,5 @@ scikit-learn==1.6.1
 nltk==3.9.1
 streamlit==1.43.2
 numpy==2.2.4
+torch==2.1.2
+transformers==4.36.2
